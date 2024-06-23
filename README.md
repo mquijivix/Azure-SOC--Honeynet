@@ -13,12 +13,12 @@ In this project, I build a mini honeynet in Azure and ingest log sources from va
 - AzureNetworkAnalytics_CL (Malicious Flows allowed into our honeynet)
 
 ## Architecture Before Hardening / Security Controls
-![Architecture Diagram](![Architecture Before Hardening : Security Controls](https://github.com/mquijivix/Azure-SOC--Honeynet/assets/173574799/727867e4-63b9-43f0-b151-b9f450c4f1d5)
-)
+![Architecture Before Hardening : Security Controls](https://github.com/mquijivix/Azure-SOC--Honeynet/assets/173574799/727867e4-63b9-43f0-b151-b9f450c4f1d5)
+
 
 ## Architecture After Hardening / Security Controls
-![Architecture Diagram](![Architecture After Hardening : Security Controls](https://github.com/mquijivix/Azure-SOC--Honeynet/assets/173574799/a6e6e675-bd58-40b4-942d-68250d8461e3)
-)
+![Architecture After Hardening : Security Controls](https://github.com/mquijivix/Azure-SOC--Honeynet/assets/173574799/a6e6e675-bd58-40b4-942d-68250d8461e3)
+
 
 The architecture of the mini honeynet in Azure consists of the following components:
 
